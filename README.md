@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Antonina Kosyakova
 
-<!--
-**AntoninaKosyakova/AntoninaKosyakova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year Computer Science student at **John Abbott College**  
+💻 Passionate about software development, design, and problem-solving  
+🚀 Interested in **web development, databases, and creative tech projects**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🧑‍🎓 Third-year Computer Science student at John Abbott College.  
+- 🛠️ Experienced in **Java, C#, Python, JavaScript/TypeScript, and SQL**.  
+- ✅ Completed major projects:
+  - 🎭 **Theatre Ticketing Website** with seat maps, show management, and user profiles (**MERN stack**).  
+  - 💸 **Budget App** in **C# with WPF & SQLite**, structured with MVC/MVP patterns.  
+  - 🎮 Side projects: **Connect Four** (C# MVP) and **Pong** (HTML5 Canvas & JavaScript).  
+
+- 📚 Successfully passed the **Épreuve uniforme de français (EUF)** 🎉.  
+- 🌟 Always curious about blending **software engineering** with **creativity**.  
+
+---
+
+## 🛠️ Tech Stack
+**Languages & Frameworks**  
+- Java | C# | Python | JavaScript/TypeScript | SQL  
+- Node.js | Express.js | React | MongoDB  
+- WPF | SQLite  
+
+**Tools & Platforms**  
+- GitHub | Azure DevOps | DigitalOcean | FreeBSD | Ubuntu | MacOS  
+- Visual Studio | IntelliJ | VS Code  
+
+---
+
+## ✨ Highlights
+- 💡 I thrive in **team-based projects** and enjoy applying **Agile development methods**.  
+- 📊 Exploring **software architecture, CI/CD pipelines, and system optimization**.  
+- 🐱 On the creative side, I share fun projects (and sometimes posts about my cat, Motya).  
+
+---
+
+## 📬 Connect with Me
+- 📧 [Email me](tonya.kosyakova@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tonya-kosyakova/)  
+- 🐙 [GitHub](https://github.com/AntoninaKosyakova)
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and connect.*
