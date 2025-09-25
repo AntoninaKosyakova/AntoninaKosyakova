@@ -13,8 +13,7 @@
   - 🎭 **Theatre Ticketing Website** with seat maps, show management, and user profiles (**MERN stack**).  
   - 💸 **Budget App** in **C# with WPF & SQLite**, structured with MVC/MVP patterns.  
   - 🎮 Side projects: **Connect Four** (C# MVP) and **Pong** (HTML5 Canvas & JavaScript).  
-
-- 📚 Successfully passed the **Épreuve uniforme de français (EUF)** 🎉.  
+  
 - 🌟 Always curious about blending **software engineering** with **creativity**.  
 
 ---
