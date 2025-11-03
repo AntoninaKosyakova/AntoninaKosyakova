@@ -1,3 +1,5 @@
+![bfb741_f1950be952644ddda85519ffdac70747~mv2](https://github.com/user-attachments/assets/beac5d81-56f6-440f-8886-aebf440e3ad4)
+
 # 👋 Hi, I'm Antonina Kosyakova
 
 🎓 3rd-year Computer Science student at **John Abbott College**  
