@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 - 🧑‍🎓 Third-year Computer Science student at John Abbott College.  
-- 🛠️ Experienced in **Java, C#, Python, JavaScript/TypeScript, and SQL**.  
+- 🛠️ Experienced in **C#, Python, JavaScript/TypeScript, and SQL**.  
 - ✅ Completed major projects:
   - 🎭 **Theatre Ticketing Website** with seat maps, show management, and user profiles (**MERN stack**).  
   - 💸 **Budget App** in **C# with WPF & SQLite**, structured with MVC/MVP patterns.  
@@ -22,7 +22,7 @@
 
 ## 🛠️ Tech Stack
 **Languages & Frameworks**  
-- Java | C# | Python | JavaScript/TypeScript | SQL  
+- C# | Python | JavaScript/TypeScript | SQL  
 - Node.js | Express.js | React | MongoDB  
 - WPF | SQLite  
 
